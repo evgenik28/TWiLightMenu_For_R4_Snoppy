@@ -35,6 +35,6 @@ This firmware is provided as-is, without warranty. Use at your own risk.
 
 ## Quick Links
 
-[![Download PICO Firmware](https://img.shields.io/badge/Download-PICO_Firmware-orange)](#)  
+[![Download Firmware](https://img.shields.io/badge/Download-Firmware-orange)](#)  
 [![Open Documentation](https://img.shields.io/badge/Docs-Open-blue)](#)  
 [![Support Project](https://img.shields.io/badge/Support-Donate-red)](#)
