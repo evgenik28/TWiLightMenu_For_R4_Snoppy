@@ -1,4 +1,4 @@
-# TWiLightMenu for R4 Snoppy Plus
+# TWiLightMenu for R4 Snoppy Plus and Wood supported
 
 ![Status](https://img.shields.io/badge/status-custom%20firmware-blue)
 ![Platform](https://img.shields.io/badge/platform-Nintendo%20DS-lightgrey)
@@ -15,12 +15,6 @@ The firmware is based on **PICO firmware** combined with **TWiLight Menu++** to 
 - Bootloader reconstruction using PICO firmware method.
 - Native support for TWiLight Menu++ with full features.
 - Designed for reliability and compatibility.
-
-## Requirements
-
-- R4 Snoppy Plus cartridge
-- microSD card with TWiLight Menu++ files
-- PICO firmware files from this repository
 
 ## Important Notes
 
